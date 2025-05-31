@@ -41,7 +41,7 @@ CREATE TABLE retail_sales
 #### 2. Data Exploration & Cleaning
 
 - **Record Count**: Determine the total number of records in the dataset.
-- - **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
+- **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
 ```sql
 SELECT COUNT(*) FROM retail_sales;
 ```
