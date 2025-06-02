@@ -4,7 +4,8 @@
 
 **Project Title**: Retail Sales Analysis  
 
-This project is designed to analyze the data. In this project I have performed data cleaning and answered specific business questions through SQL queries.
+This project is focused on data analysis using SQL. It involves data cleaning and the execution of basic SQL queries to address specific business questions.
+
 
 #### Objectives
 
