@@ -171,11 +171,11 @@ GROUP BY shift
 
 #### Reports:
 
-- Quarterly & Category Sales
+- Quarterly & Category Sales :- 
   Retrieved 1st quarter transactions and identified November 2023 sales of ‘Beauty’ category with quantity > 4.
-- Sales Performance & Customer Metrics
+- Sales Performance & Customer Metrics :- 
   Calculated total sales by category and average age of ‘Beauty’ customers.
-- Trends & Key Customer Insights
+- Trends & Key Customer Insights :- 
   Analyzed monthly sales trends, best-selling months, top 5 customers, and summarized orders by shift.
   
 #### Conclusion:
