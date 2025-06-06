@@ -171,10 +171,13 @@ GROUP BY shift
 
 #### Reports:
 
-- Sales Summary: Combines the data on total sales, customer details, and product categories.
-- Trend Analysis: Shows how sales change over time (by month and shift).
-- Customer Insights: Details about the most valuable customers and how many unique customers buy in each category.
-
+- Quarterly & Category Sales
+  Retrieved 1st quarter transactions and identified November 2023 sales of ‘Beauty’ category with quantity > 4.
+- Sales Performance & Customer Metrics
+  Calculated total sales by category and average age of ‘Beauty’ customers.
+- Trends & Key Customer Insights
+  Analyzed monthly sales trends, best-selling months, top 5 customers, and summarized orders by shift.
+  
 #### Conclusion:
 The project is a practical demonstration of SQL analysis. It goes from setting up a database to finding patterns in data that can help businesses make decisions about what to sell, when to sell, and to whom.
 
